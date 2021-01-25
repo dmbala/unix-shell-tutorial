@@ -1,4 +1,8 @@
 #!/bin/bash
+
+$ while read line; do echo $line; done < company.txt
+
+
 pdblist=$(ls *.pdb)
 for filename in $pdblist 
 #for filename in *.pdb
