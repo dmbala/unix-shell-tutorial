@@ -8,7 +8,10 @@ To download the examples, try
 or 
 
 You can download the compressed file, 
+
     wget https://github.com/dmbala/unix-shell-tutorial/blob/master/examples.tar.gz
+    
 and uncompress the directory
+
     tar -xvzf examples.tar.gz 
 
