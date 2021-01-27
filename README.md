@@ -19,5 +19,5 @@ You can try these examples on
 
 * https://copy.sh/v86/?profile=linux26
 * https://www.tutorialspoint.com/unix_terminal_online.php
-* local machine (needs installation of bash)
+* local machine (needs installation of bash. For windows, try git bash  https://gitforwindows.org/)
 
